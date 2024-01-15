@@ -1,6 +1,6 @@
 # N-Queen-Puzzle
 
-![Alt text](/images/your-image-filename.png)
+![Alt text](/images/Nq.png)
 
 ## Overview
 The N-Queen Puzzle is a classic problem in computer science and artificial intelligence, involving placing N queens on an N×N chessboard so that no two queens threaten each other. This repository explores various algorithms to solve the N-Queen Puzzle.
