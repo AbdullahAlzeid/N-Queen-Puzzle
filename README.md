@@ -3,7 +3,7 @@
 ## Overview
 The N-Queen Puzzle is a classic problem in computer science and artificial intelligence, involving placing N queens on an N×N chessboard so that no two queens threaten each other. This repository explores various algorithms to solve the N-Queen Puzzle.
 
-## Repository Structure
+## Components
 ### Board
 - [Square.java](https://github.com/AbdullahAlzeid/N-Queen-Puzzle/blob/main/Board/Square.java): Defines the `Square` class for the puzzle representation.
 
