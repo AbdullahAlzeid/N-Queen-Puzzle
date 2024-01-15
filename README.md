@@ -36,6 +36,8 @@ To run any of the N-Queen Puzzle solutions:
    javac NQueenHillClimbing.java
    java NQueenHillClimbing
 
+# Acknowledgments
+This Program was adapted from the work of [RyanBouffard](https://github.com/RyanBouffard), particularly their [NQueens](https://github.com/RyanBouffard/NQueens) repository.
    
 ## License
 This project is licensed under the [MIT License](https://github.com/AbdullahAlzeid/N-Queen-Puzzle/blob/main/LICENSE).
